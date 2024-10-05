@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://res.cloudinary.com/dvuh4fz9d/image/upload/v1657795778/shop_cuojbm.ico" height="180" width="220" alt="logo"/>
 
-# 🌱 AgroStores 🛒
+# 🌱 AgriHub 🛒
 
 ### An E-Commerce App for Buying Agro-Products.
 
@@ -9,15 +9,15 @@
 
 ---
 
-## About AgroStores
+## About AgriHub
 
-- AgroStores is a platform where one can easily buy Agricuture growth products online.
+- AgriHub is a platform where one can easily buy Agricuture growth products online.
 - In this App, users can see products based on different categories such as Fertilizers, Pesticides, Farming Tools, Seeds, Safety Wearables, Electronic Devices, etc.
 - Additionally we have implemented various features such as add products to cart, add to wishlist, address management, order summary payment Integration, etc.
 
 ## Live Deployment
 
-Checkout the live deployment here: [AgroStores](https://agro-stores.netlify.app/)
+Checkout the live deployment here: [AgriHub](https://agro-stores.netlify.app/)
 
 ---
 
